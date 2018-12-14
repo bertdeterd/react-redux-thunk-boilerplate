@@ -20,7 +20,7 @@ class Home extends Component {
   }
 }
 
-/* connecting to store */
+/* connecting to store   */
 function mapStateToProps(state, ownProps) {
   return {
     user: state.user

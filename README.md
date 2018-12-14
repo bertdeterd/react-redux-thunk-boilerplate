@@ -5,6 +5,10 @@ git clone `boilerplate-repo-url`<br>
 git remote -v<br>
 git remote rm `origin`<br>
 
+verborgen .git dir verwijderen
+hernoemen hoofdfolder naam
+git init 
+
 in github: maak nieuwe repo<br>
 
 git remote add origin `nieuwe-url-van-nieuwe-lege-repo`<br>

@@ -1,4 +1,19 @@
-<<<<<<< HEAD
+Boilerplate to App
+
+
+git clone `boilerplate-repo-url`<br>
+git remote -v<br>
+git remote rm `origin`<br>
+
+in github: maak nieuwe repo<br>
+
+git remote add origin `nieuwe-url-van-nieuwe-lege-repo`<br>
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -43,7 +58,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-=======
 # react-redux-thunk-boilerplate
 Boilerplate
->>>>>>> 415467620cc953989d04d47294d521ecb5136118
